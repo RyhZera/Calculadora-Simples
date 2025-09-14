@@ -56,11 +56,6 @@ Resultado: 50
 3. Estruturação de um projeto simples com HTML + JS.
 
 📝 Licença
+
 Este projeto é de uso livre para estudos.
-
----
-
-👉 Se você criar uma pasta chamada **calculadora-js**, colocar esses dois arquivos dentro e subir no GitHub, já fica bonitinho.  
-
-Quer que eu também monte o **script separado em `script.js`** (em vez de dentro do HTML) pra ficar mais organizado e profissional?
 
