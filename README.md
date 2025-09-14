@@ -11,7 +11,7 @@ Foi meu primeiro código em JS, feito no **primeiro semestre de Sistemas de Info
   - ➕ Adição  
   - ➖ Subtração  
   - ✖️ Multiplicação  
-  - ➗ Divisão (com verificação de divisão por zero)  
+  - ➗ Divisão
 - Entrada de dados via **prompt**  
 - Exibição dos resultados via **alert**
 
